@@ -276,6 +276,26 @@ body {
   .card ul {
     font-size: 1.1rem;
   }
+
+  .card {
+    padding: 15px;
+    margin: 10px;
+    width: calc(100% - 20px);
+  }
+
+  .card h3 {
+    font-size: 1.1rem;
+  }
+
+  .card p {
+    font-size: 0.9rem;
+  }
+
+  .tech-stack span {
+    font-size: 0.8rem;
+    padding: 4px 8px;
+    margin: 2px;
+  }
 }
 
 @media (min-width: 1200px) {
